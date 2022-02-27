@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full answer to a scandalous pamphlet, intituled, A character of a London diurnall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84981</idno>
+            <idno type="STC">Wing F2340</idno>
+            <idno type="STC">Thomason E277_11</idno>
+            <idno type="STC">ESTC R200008</idno>
+            <idno type="EEBO-CITATION">99860810</idno>
+            <idno type="PROQUEST">99860810</idno>
+            <idno type="VID">112935</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112935)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E277[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full answer to a scandalous pamphlet, intituled, A character of a London diurnall.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.P. for Francis Coles and Lawrence Blaikeloke, and are to be sold at their shops, in the Old-Bayly, and at Temple-Barre.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authoritie."</note>
+                  <note>A reply to: Cleveland, John.  The character of a London diurnall (Wing C4659).</note>
+                  <note>Annotation on Thomason copy: "Aprill 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cleveland, John, 1613-1658. --  Character of a London diurnall --  Early works to 1800.</term>
+               <term>English periodicals --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Periodicals --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112935:1" rendition="simple:additions"/>
+            <p>A FVLL ANSWER TO A SCANDALOUS PAMPHLET, Intituled, <hi>A Character of a</hi> LONDON DIURNALL.</p>
+            <p>
+               <hi>Publiſhed by Authoritie.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>E. P.</hi> for <hi>Francis Coles</hi> and <hi>Lawrence Blaikeloke,</hi> and are to be ſold at their ſhops, in the <hi>Old-Bayly,</hi> and at <hi>Temple-Barre.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112935:2"/>
+            <pb n="1" facs="tcp:112935:2"/>
+            <head>A full ANSWER to a Scandalous Pamphlet, intituled, <hi>A Character of a</hi> LONDON-DIURNALL.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Urely, when he drew this Character, he never thought of the <hi>Greeke</hi> Alphabet, for the very remembrance of theſe two Chara<g ref="char:EOLhyphen"/>cters, ד and ח might have then given him a ſufficient admonition, to beware of ſuch virulent extravagancie: But I wonder at his ambition, ſince having merited the Laurell in this famous Univer<g ref="char:EOLhyphen"/>ſitie, he could not be content, but would ſtill aſpire to become a Graduate in the triple Academie, and to put on Doctor <hi>Stories</hi> Cap, with a Wreath of a more igno<g ref="char:EOLhyphen"/>minious and fatall conſequence, then that which he firſt aimed at: But ſince he hath pleaſed himſelfe, and his Partie, by acting the old Comedie <hi>è Plaustro,</hi> to the ſcandall of our Honourable Senate, it is requiſite alſo, that by acting the old Tragedie in the Cart, be ſhould ſatisfie juſtice. But though his tongue hath extremely tranſgreſſed the limits of Truth, Modeſtie, and Loyalty, yet I hope that the hearts of his Judges will demonſtrate mercy.</p>
+            <p>He labours about the pedigree of a <hi>Diurnall,</hi> as that
+<pb n="2" facs="tcp:112935:3"/>
+               <hi>Conventus Aſinorum,</hi> or Colledge of Heralds, were wont to ſweat about derivation of the deſcent of ſome vaine-glorious Novice, from <hi>Godfrey</hi> of <hi>Bulleyn,</hi> or <hi>Ieffrey</hi> of <hi>Aniou;</hi> but not improperly, though unwittingly, he calls it the Parliaments Booke of <hi>Maccabees,</hi> for the <hi>Maccabees</hi> (we know) were the Heroick Vindicators of the <hi>Iewiſh</hi> Lawes and Liberties, from tyrannicall vio<g ref="char:EOLhyphen"/>lence and crueltie. I confeſſe, I find in <hi>Diurnals</hi> no ſuch politique maximes, as be in <hi>Tacitus</hi> his <hi>Annals,</hi> nor doe I accompt them ſo authentique as <hi>Livies Decades;</hi> yet expe<g ref="char:EOLhyphen"/>rience ſhewes, that they uſually render ſo much truth, as will make the moſt clamorous Malignant as ſilent as a <hi>Seriphian</hi> frog, and appeare with a face as ill as his heart; yea, make him looke like vanquiſhed <hi>Marſyas,</hi> bring him into ſuch an Epilepſie of melancholy, that none can helpe him but his white Witch <hi>Aulicus,</hi> who applying a fictitious charme, cures him as well as dancing doth thoſe which are ſtung with a <hi>Tarantula.</hi> He tells us of the miracle of <hi>Zealand,</hi> but I wonder more at this of <hi>Cleveland;</hi> who hath here a more numerous birth of monſtrous and deſperate conceits in one ſheet, then the Counteſſe of <hi>Meurs</hi> had conceptions betweene two: but ſuch prodigious births, may prove as fatall to the one as to the other.</p>
+            <p>He ſaith, that the houſe of Commons ſit as Judges of the twelve Tribes of <hi>Iſrael:</hi> but he is much miſtaken in his accompt, for they judge onely two Tribes, <hi>viz.</hi> Su<g ref="char:EOLhyphen"/>perſtitious <hi>Levi,</hi> and the Malignant Tribe of <hi>Dan.</hi> Theſe two Tribes were the principall ſticklers in the erection and adoration of the Calfe in <hi>Horeb:</hi> ought they not therefore to be judged? He calls the Parliament the Kingdomes Anatomie, in ſtead of the Kingdomes Epi<g ref="char:EOLhyphen"/>tome; and this is one of <hi>Will Toolyes</hi> miſtakes.</p>
+            <p>
+               <pb n="3" facs="tcp:112935:3"/>He brands our Aſſembly of Divines with the reproach<g ref="char:EOLhyphen"/>full tearme of Empericks, and twits them for thumbing of <hi>Diurnalls:</hi> I ſhould rather have thought they might have beene taunted for thumping of Pulpits then thumb<g ref="char:EOLhyphen"/>ing of <hi>Diurnalls:</hi> But I dare aſſert, that for the myſticall <hi>Urim</hi> and <hi>Thummim,</hi> wherewith every Miniſter ought to be qualified, theſe whom he tearmes Empericks, and ſpi<g ref="char:EOLhyphen"/>rituall Dragooneers, doe as farre ſurpaſſe their pontifi<g ref="char:EOLhyphen"/>call Canoneers, and Cathedrall Recluſes, as Swans doe Geeſe.</p>
+            <p>He ſaith, that the State ſtaleth blood; and here, he is in the right: for both Church and State have endured many terrible fits of the Stone, and Strangury, ever ſince their partie obſtructed thoſe paſſages, by which the evacuation of excrementitious abuſes ſhould be made.</p>
+            <p>He compares the <hi>Diurnallists,</hi> and <hi>Aulicus,</hi> to the Divell, and the Exorciſt, or to a blacke and a white Witch; but more properly, they may be repreſented in <hi>Ocnus</hi> and his Aſſe: for the <hi>Diurnallists</hi> twiſts ropes of diſcourſes, and that <hi>Oxford</hi> Aſſe devoures them, and they proving very hard in concoction; he refunds them to his Malignants, which licke them up with as much greedi<g ref="char:EOLhyphen"/>neſſe, as the ſmaller Poets doe <hi>Homers</hi> Vomit. But if he will needs make <hi>Aulicus</hi> a Witch, he ſhall be a Witch of <hi>Lapland,</hi> for he envelopes Malignant aire in paper, as they doe winds in clouts.</p>
+            <p>This Naturall would bind politicall affaires to a phyſicall condition, and therefore out of the abundance of ignorance, and loyaltie, he impleades the Parliament of baſtardie; not conſidering that Regall power, in relati<g ref="char:EOLhyphen"/>on to the publike good, is ever conſiſtent with the autho<g ref="char:EOLhyphen"/>ritie of the Parliament, howſoever his Majeſtie be in per<g ref="char:EOLhyphen"/>ſon
+<pb n="4" facs="tcp:112935:4"/>
+abſent, or in will averſe: therefore whatſoever ordi<g ref="char:EOLhyphen"/>nances, tending to the preſervation or benefit of the Common-Wealth, ſhalbe concluded on in his abſence, they are to be accompted legitimate, according to that infallible rule, <hi>Salus populi ſuprema lex eſto.</hi> Thus are our Ordinances no ſubventanious, or abortive births, but reall, mature, and <hi>Herculean</hi> Infants, deſtin'd and brought forth, to ſtrangle thoſe Serpents, ſent out by Malignant <hi>Iuno,</hi> to deſtroy our Religion, and Liberties.</p>
+            <p>He compares our <hi>Militia</hi> to <hi>Mars,</hi> who was borne without a father: but their <hi>Oxford Militia</hi> may more aptly be compared to the pernicious Cockatrice, who is hatched without a mother: As for our Parliament Votes, they are the ſame in effect with the <hi>Romanae Sena<g ref="char:EOLhyphen"/>tus conſultum,</hi> which had the validitie of a law a long time, even under their moſt tyrannicall Emperours. Nor can he really prove what he impudently would inferre, by his triviall compariſon of the Sexton and his Clock.</p>
+            <p>How exactly this Pedantique <hi>Heteroclite</hi> hath learned the Popiſh tricke of diſavowing of thoſe miſchiefes, which are evidently and truely theirs, the births of their damnable Plots have juſtly merited ſuch Midwives as were cruelly obtruded upon the <hi>Hebrew</hi> women: But ſince they have proved as ridiculous as the labours of the mountaines, or the nativitie of a cuſhion, we muſt there<g ref="char:EOLhyphen"/>fore (next to God) thanke our vigilant Patriots at <hi>Weſt<g ref="char:EOLhyphen"/>minster,</hi> whom unworthily, and wickedly, he aſperſeth with the opprobious appellation of Players and ſcenical Actors: wherefore, I may juſtly here retort upon him the <hi>Pſalmiſts</hi> reproofe; Thy tongue imagineth wickedneſſe, and with lyes thou cutteſt like a ſharpe raſor: thou haſt loved all words that may doe hurt, oh thou falſe tongue, &amp;c. This Sophiſter will acknowledge no Plots, becauſe
+<pb n="5" facs="tcp:112935:4"/>
+they were never fully effected: but had they ſucceeded according to their deſires, then no doubt they ſhould have bin juſtified with as much audacitie, as they are now diſavowed with impudence. I skip his Skippers and his Taylors, and bid him look upon the Plot of drawing up the Northerne Armies, and upon that which tended to the apprehenſion or aſſaſſinate of the ſix Members, on that of <hi>Waller, Tompkins,</hi> and <hi>Chaloner:</hi> theſe were no <hi>Chi<g ref="char:EOLhyphen"/>maera's,</hi> no perſonated Devils. But I wonder not ſo much at the ſhameleſſe confidence of many, ſince ſome, who were Actors, have appeared ſo wretchedly obdurate, that the Ladder or Scaffold could not put them in mind of a true remorſe, or penitent confeſſion.</p>
+            <p>If all Array-men were with <hi>Canterbury,</hi> and the Lyons, the Kingdome might be at quiet; the dormant Articles need no cramping: they will awake ſoone enough, to wait upon Juſtice, and (I feare) before <hi>Canterbury</hi> be ready for his Voyage.</p>
+            <p>Names are but accidents; yet our Sword and Scepter have beene moſt frequently glorious, in the Name of <hi>Henry:</hi> but I am afraid, the wicked counſels of ſome will make the Name of <hi>Charles</hi> ſadly ominous. His ſup<g ref="char:EOLhyphen"/>poſition of <hi>Iſaac,</hi> and the Corne-cutter, is a ridiculous and prophane excreſcence of the <hi>Cornucopia</hi> of his wit, therefore this fellow ſeemes rather to deſerve a Crowne-cutter, then he to need a Corne-cutter; or he may better merit to be furniſhed with a Scale, though not according to his Votes, yet befitting his deſerts.</p>
+            <p>
+               <hi>Don Quixote</hi> deſerves the patronage of theſe errant Cavaliers, who though they have not Valour enough to fight with Wind-mills, yet they have wit enough to plunder them. This fellow ought to retract his incon<g ref="char:EOLhyphen"/>gruities, for our Senatours are Men of the long Robe,
+<pb n="6" facs="tcp:112935:5"/>
+and therefore uncapable of that appellation which be<g ref="char:EOLhyphen"/>longed to that fantaſtique ſonne of <hi>Mars.</hi> As for Foxes, it is moſt certaine, that there be none more noxious to our State then <hi>Spaniſh</hi> Foxes, and a Brace of theſe wee have runne to ground at <hi>Oxford,</hi> where we hope (ere long) they ſhall be unkennell'd by our Terriers.</p>
+            <p>He thus having ſufficiently play'd upon our conſcript Patriots, proceeds in a ſecond part, to the ſame Tune, (through the invincible boldneſſe of his obſtreperous Gooſe-quill) to calumniate our Militarie Officers; and he begins with the Earle of <hi>Stamford,</hi> ſaying, that the people tooke him for one that danced a Morris, &amp;c. but hee was miſtaken in the peoples opinions, for they were more ſadly ſenſible of another, who more properly may be ſayd to have danc'd the Morris in the Weſt, though he danc'd <hi>Lachrymae</hi> before <hi>Lyme.</hi>
+            </p>
+            <p>The proprietie of <hi>Bankes</hi> his Horſe ſeemes to be in their great Atturney, and the Capariſon of a Sergeants Gowne ſutes the condition of that ingenious Jade better then a great Saddle. The loyaltie of their <hi>Corniſh</hi> Ca<g ref="char:EOLhyphen"/>valiers merites Monuments of Ginger-bread, and the vertue of their <hi>Welch</hi> Worthies Statues of toſted Cheeſe. Our maſculine devoires admit no female Committees; though their Affaires depend too much upon the capa<g ref="char:EOLhyphen"/>citie of that Sex. Hee contemptuouſly meaſures his Lordſhip by Saint <hi>Pauls</hi> ſtature, and imagines that Va<g ref="char:EOLhyphen"/>lour dwells onely in Carrack of Fleſh. Hee ſayth, that this Lord (by the helpe of a <hi>Diurnall</hi>) routed his ene<g ref="char:EOLhyphen"/>mies, at fiftie miles diſtance: I know not what <hi>Panick</hi> feare thoſe Weſterne Choughes might apprehend from his Lordſhips Name; for this hath heretofore beene very formidable to the Adverſaries of our State, there<g ref="char:EOLhyphen"/>fore I ſuſpend my unbeleefe. But I have heard, that
+<pb n="7" facs="tcp:112935:5"/>
+Prince <hi>Rupert</hi> (by the helpe of <hi>Aulieus</hi>) routed our Northerne Armie, for which Victorie they made Bone<g ref="char:EOLhyphen"/>fires at <hi>Oxford;</hi> and yet I am certaine, that this ſtorie was more remote from truth, then his Lordſhip was from <hi>Hopton,</hi> when he was routed: but theſe are onely the ſlips of Fame, and not to be inſiſted on by the ſuper<g ref="char:EOLhyphen"/>lative wit of an Univerſitie. His Lordſhips proweſſe needs no <hi>Paracelſian</hi> Sword, neither is the Valour of his Adverſaries onely to be abated by a Magicall Antidote; but the Weapon-Salve would have been a precious com<g ref="char:EOLhyphen"/>moditie among them after <hi>Modbury</hi> field, where we made much worke for their Chirurgians; and there Sir <hi>Ralph Hopton</hi> was taught to relinquiſh the vertue of his hands, and to be beholding to the activitie of his heeles for his preſervation.</p>
+            <p>But (ſaith he) the <hi>Squibbe</hi> is run to the end of the rope: this is a miſcellaneous ſentence, for though the <hi>Squibbe</hi> be ridiculous, yet the end of the rope is as fatall as the ſciſſours of his Lady <hi>Atropos.</hi> He enveighes againſt Sir <hi>William Waller,</hi> and his companion in Armes, and by a ſcurrilous compariſon ſeekes to imbaſe their approved worth, but his ſlandrous language is a moſt forcible ar<g ref="char:EOLhyphen"/>gument of their Valour and fidelitie. The Mountebanke and <hi>Zany,</hi> are a paire of couples fit for his Court Spa<g ref="char:EOLhyphen"/>niels, and nothing pertinent to heroick fraternities.</p>
+            <p>Nor can the Tranſlators of the <hi>Pſalmes</hi> eſcape his ex<g ref="char:EOLhyphen"/>travagant madneſſe, but they muſt have a laſh for their pious endeavours.</p>
+            <p>He would make Sir <hi>Ralph Hopton</hi> (in this reſpect) co<g ref="char:cmbAbbrStroke">̄</g>pa<g ref="char:EOLhyphen"/>rable to ſome of their Clergy; theſe have Pluralities of Livings, &amp; he muſt have a Plurality of Lives: Indeed, when it was reported he was beaten, the world (who til then had ſuch a ſtrong opinion of his Valour) preſently gave him
+<pb n="8" facs="tcp:112935:6"/>
+for dead, for few could be perſwaded that this flower of Chivalrie would ever have condiſcended to make his Spurs of honour acceſſorie to an ignominious flight; yet ſince that, he hath more then once given them occaſi<g ref="char:EOLhyphen"/>ons to alter their opinions, But though the naturall life can be loſt but once, yet there is a morall life which con<g ref="char:EOLhyphen"/>ſiſts in honour &amp; reputation, &amp; this merits more eſteem then that which is annexed to fleſh and blood; but the ſame may be loſt more then once: and in this regard, their Champion of the Weſt was ſlaine both by the Earle of <hi>Stamford</hi> and Sir <hi>William VValler:</hi>
+            </p>
+            <p>This Fellowes tearmes are ſuch, that he ſeemes rather to have beene brought up among the ſcumme of raſcali<g ref="char:EOLhyphen"/>tie, then in a Nurſerie of manners and Arts, but a time may come when he may be called to anſwer for all his barbarous incivilities, and that rude paronomaſie, and other abuſes moſt intemperately vomited againſt the name and perſon of his Excellency.</p>
+            <p>He mentions <hi>Round-VVay-Downe,</hi> where the Valour of Sir <hi>William Waller</hi> was more conſpicuous, then his diſa<g ref="char:EOLhyphen"/>ſter notorious; for after he had given <hi>Hopton</hi> ſeverall en<g ref="char:EOLhyphen"/>counters &amp; defeates, and forced him to take Sanctuary in the <hi>Devizes,</hi> after he had ſlaine <hi>Greenvile</hi> their <hi>Corniſh A<g ref="char:EOLhyphen"/>chilles,</hi> with many of his Myrmidons: I ſay, after he had reduced <hi>Hopton</hi> to ſuch a deſperate condition, that he muſt have beene ſurpriſed within the ſpace of 24 houres, he was unexpectedly charged by a freſh Brigade, and ſo was conſtrained to leave his prey, retreating without a<g ref="char:EOLhyphen"/>ny ſingular loſſe.</p>
+            <p>This Fellowes malice hath tranſported him into ſuch an extaſie, that he not onely labours to ſcandalize good men and their laudable actions, but to abuſe holy Scrip<g ref="char:EOLhyphen"/>ture, yea even the moſt ſacred part of the Scripture, the
+<pb n="9" facs="tcp:112935:6"/>
+Goſpel it ſelfe: and therein that myſtick word of gratu<g ref="char:EOLhyphen"/>lation which was applied to our moſt glorious Saviour in his tryumphant <hi>Entrata</hi> into <hi>Hieruſalem,</hi> this holy be<g ref="char:EOLhyphen"/>nediction he diſtorteth to his ludibrious purpoſe in a blaſphemous manner. Names are but circumſtantiall ad<g ref="char:EOLhyphen"/>juncts, and nothing pertaining to the eſſence of ſanctity; yet certainly, a Chriſtian may more decently beare a name borrowed from the <hi>Hebrews,</hi> then the heathen, and our moſt frequent names come from them, as <hi>Iohn, Tho<g ref="char:EOLhyphen"/>mas,</hi> &amp;c. yea <hi>Dionyſius</hi> of <hi>Alexandria,</hi> an ancient Father of the Primitive Church, ſaith plainly; That as we ought to ſtrive to imitate the actions of the Apoſtles, ſo we ought to give their names unto our infants, that the ſame may put them in mind to follow the examples of thoſe pious men whom they ſo nearely reſemble in their names: but how abſurdly this pedantique <hi>Drole</hi> would inferre, that his Majeſtie may lawfully make uſe of the <hi>Iriſh</hi> Rebells, becauſe the Liſt of Generall <hi>Cromwells</hi> Regiment con<g ref="char:EOLhyphen"/>ſiſts of <hi>Hebrew</hi> names, for he vainly pretends, that the impoſion of an exotick name may tranſlate a perſon to the condition of an Alien. I am not acquainted with Ge<g ref="char:EOLhyphen"/>nerall <hi>Cromwells</hi> perſon, therefore I could never obſerve the poſture of his neck: but this I know, that the moſt no<g ref="char:EOLhyphen"/>ble and glorious Commander which the world ever had carried his neck awry. It is true that, or his complexion, or his Valour, ſo dazled their young Eagle, that he durſt not looke him in the face at <hi>Long-Marſton,</hi> but it was his bloody Sword, not his bloody Beake, which made them run almoſt toward every point of the Compaſſe.</p>
+            <p>Images in Churches are obnoxious to Superſtitious abuſes, and therefore may be juſtly taken away or demo<g ref="char:EOLhyphen"/>liſhed; but from violation of Monuments, or diſtur<g ref="char:EOLhyphen"/>bance of the repoſe of the dead, I confidently beleeve,
+<pb n="10" facs="tcp:112935:7"/>
+his hands are as cleare as his accuſers tongue is guilty of a ſlanderous aſperſion; but were he faultie of what is layd to his charge, yet I doubt not, but he might procure a Certificate under Prince <hi>Ruperts</hi> hand, that he dares fight againſt creatures of a more lively conſtitution, then Images or Statues. He ſpeakes of a running banquet, and ſurely he meanes that which Generall <hi>Cromwell</hi> invi<g ref="char:EOLhyphen"/>ted his Highneſſe and the Marqueſſe of <hi>New-Caſtle</hi> to, at <hi>Long-Marſton,</hi> when Generalls and Lieutenant Generalls ran like Lance-ſpeſſado's, or <hi>Iriſh</hi> Foot-men; ſome fled Weſtward, as if they meant to take Sanctuarie in the Divels—of peake; and ſome Eaſtward, never turning head till they had meaſured the breadth of the <hi>Germane</hi> Ocean. As for his whiſtling to the <hi>Cambridge</hi> Commit<g ref="char:EOLhyphen"/>tee, I beleeve it is an expreſſion of more ſenſe and hone<g ref="char:EOLhyphen"/>ſty, then the tongue of this back-biter can deliver, or his heart imagine, and he that reads him backward or for<g ref="char:EOLhyphen"/>ward, ſhall find him valiant and faithfull, if he conſtrues him rightly. Rifling of Colledges, and demoliſhing of Churches, are falſe imputations of that bleare-ey'd ma<g ref="char:EOLhyphen"/>lice which cannot diſtinguiſh abuſes from things: Sacri<g ref="char:EOLhyphen"/>ledge is not entailed upon him, but Religion, Vertue, and the Spirit of Reformation runs in his blood: For as his noble Anceſtor overthrew thoſe Houſes of Superſti<g ref="char:EOLhyphen"/>tion, Sloth, and Senſualitie, ſo he labours to purge Ca<g ref="char:EOLhyphen"/>thedrals of thoſe abuſes which threaten ruine to true Re<g ref="char:EOLhyphen"/>ligion: But this Fellow, out of his iniquitie, or weak<g ref="char:EOLhyphen"/>neſſe of judgement, takes Reformation for Robbery, and it may concerne him in time to crave the benefit of the Clergie, which will hardly be granted, becauſe he hath made ſuch bad uſe of his learning; but there can be no greater benefit, both to the Clergie and Laitie, then a true Reformation.</p>
+            <p>
+               <pb n="11" facs="tcp:112935:7"/>His perſonall Reproaches ſpeake him rather to be one of the Aſſembly at <hi>Billinſgate,</hi> then a member of our Univerſitie. Whether it were the Holyneſſe of <hi>Man<g ref="char:EOLhyphen"/>chester,</hi> or the Vigilancie of <hi>Cromwell,</hi> that defeated their unſanctified Crew ſo often, we need not examine, ſince we know they have beene almoſt as fatall to thoſe <hi>Punick</hi> Cavaliers, as thoſe two <hi>Roman</hi> Thunderbolts of Warre were to the Adverſaries of their Common-wealth; and it hath appeared, that <hi>Michael</hi> and the Lord of Hoſtes have beene their Aſſiſtants. The Earle of <hi>Manchesters</hi> Victories amply prove the unanimitie of his Souldiers, and their Diviſions are but the Devices of this fellowes malignant condition: it makes much for the credit of his partie, to call thoſe who have ſo frequently beaten them, a companie of winking Cowards. He rayles a<g ref="char:EOLhyphen"/>gainſt the breakers of Monuments, yet ſpits Venome on the aſhes of the dead: He argues, as if Vertues and Vices were hereditarie things, and like an abſolute <hi>Pelagian,</hi> he goes about to derive Religious Sanctitie from a naturall cauſe, ſo corrupt is his Divinitie. Neither his Lordſhip nor the <hi>Scottiſh</hi> Myſts are ſo noxious to the eyes of this Kingdome, as their <hi>French</hi> and <hi>Spaniſh</hi> Myſts, for theſe have almoſt put out the eyes of both King and King<g ref="char:EOLhyphen"/>dome. As for the knowing loyaltie he ſpeakes of, it is but a meere pedantick Hereſie in policie, cryed up by their Pontificall <hi>Rabbies,</hi> againſt Conſcience, becauſe it is a ſupport of their Lordly Dignities; and moſt of the light-headed <hi>Levites</hi> follow the example of their Reve<g ref="char:EOLhyphen"/>rend Bel-weathers. His Lordſhip hath no way appeared an enemie to Learning, but to Ignorance and Superſtiti<g ref="char:EOLhyphen"/>on, perſonated with Religion and Learning, and his Trea<g ref="char:EOLhyphen"/>ſons are nothing elſe but the fictitious <hi>Idaea's</hi> of this fellowes malignant imagination, who in this ſlanderous
+<pb n="12" facs="tcp:112935:8"/>
+aſperſion hath approved himſelfe to be an arch-traytor to Truth.</p>
+            <p>The Accompt of his Lordſhips Victories is written in the bloud of his Adverſaries, and this <hi>Balaam</hi> hath not propheſied in vaine; ſo often hath our Chriſtian Knight defeated thoſe ſwearing <hi>Nimrods,</hi> and <hi>Pagan</hi> Cavaliers. As for Loſſes (thanks be to God) they out-vye us ten for one; but the innocent bloud ſpilt by their <hi>Iriſh</hi> Auxili<g ref="char:EOLhyphen"/>aries ſtill cryes for Vengeance, and ſhall doubtleſſe be heard: Thoſe ſavage Villaines, that merit interdiction of fire and water, are reputed good Catholique ſubjects, while others, of ſingular integritie and loyaltie toward God, their King and Countrey, are called barbarous Re<g ref="char:EOLhyphen"/>bels: <hi>Videat Deus, &amp; judicet.</hi>
+            </p>
+            <p>In his wonted ſcurrilitie, he taxeth Sir <hi>William Brereton</hi> and Sir <hi>Iohn Gell,</hi> Gentlemen of approved worth and va<g ref="char:EOLhyphen"/>lour, whoſe fortunate and Heroick actions juſtly give the Lye to his opprobrious appellation. The firſt of theſe, hath beene a terrible ſlaughter-man to their <hi>Iriſh</hi> Cani<g ref="char:EOLhyphen"/>bals, and ſhewed himſelfe a tall trencher-man at divers bloudie breakfaſts which he gave to thoſe uncivill gueſts. As for his reſemblance of the Beaſt, it is onely a fallacie of this detractors vitiated fancie.</p>
+            <p>He is ſo ſeaſoned with malignancie, that goodneſſe in others, to him ſeemes miraculous: it is an <hi>Aenigma</hi> to his dunghill ſpirit, that noble <hi>Fairfax</hi> ſhould ſtand up in Vindication of Religion, from Atheiſme and Superſti<g ref="char:EOLhyphen"/>tion, and the Common-wealth from a Tyrannicall and Arbitrarie Power. He might have ſpared his diſtinction of a perſonall and a politicall capacitie, for his Lord<g ref="char:EOLhyphen"/>ſhip is no creature of a double ſhape, no <hi>Centaure,</hi> but the very <hi>Hercules,</hi> or <hi>Theſeus,</hi> that combates thoſe Cloud-bred Monſters. He ſomewhat ſtrangely compares his
+<pb n="13" facs="tcp:112935:8"/>
+Lordſhip to an <hi>Aegyptian</hi> Chicken; but we muſt adde too, that he is of a generous kind, for their fierceſt Lions tremble at his voyce.</p>
+            <p>Me thinkes he ſhould forbeare to call Generall <hi>Browne</hi> Wood-monger, becauſe this very tearme might make them call to mind, how often he hath cudgel'd their <hi>Mili<g ref="char:EOLhyphen"/>tia,</hi> even from the <hi>Generaliſſimo</hi> to the Corporall.</p>
+            <p>All good men can atteſt, that there was need of a Re<g ref="char:EOLhyphen"/>formation both in Church and State, which before this time might have beene happily perfected by the Parlia<g ref="char:EOLhyphen"/>ment, if they had not beene maliciouſly interrupted by thoſe <hi>Babylonian Sanballats.</hi>
+            </p>
+            <p>The name of <hi>Tinker</hi> may be moſt properly applyed to their <hi>Corniſh</hi> Mettall-men, thoſe ſubterraneous ſpirits of darkneſſe, whom they have rayſed from the Weſterne <hi>Stannaries;</hi> or to thoſe <hi>Iriſh</hi> Rogues, whom thoſe <hi>Oxford</hi> Foxes, <hi>Cottington</hi> and <hi>Digby,</hi> have ſent for over to hammer in pieces both Church and State, ſo they may accompliſh their wicked ends and purpoſes.</p>
+            <p>He hath very charitably tranſlated the name of Rebels, from his Conſorts the bloudie <hi>Iriſh,</hi> to his innocent Proteſtant Brethren: but the juſtneſſe of our Cauſe is warrantable both by the Fundamentall Lawes of our Kingdome and Divine Ordinances; therefore we confi<g ref="char:EOLhyphen"/>dently retort upon him and his Faction the name of Rebels with more bitter reproach; then he can or ever could fixe the ſame upon us, that endeavour to be found really loyall to God, our King, and Kingdome. Our Victories have not beene Magicall, but truly Martiall: At <hi>Edge-Hill</hi> it was evident, that the epithete of <hi>Invincible</hi> was as vainely applyed to their formidable Cavaliers, as to the <hi>Spaniſh Armado</hi> in 88. At <hi>Newbury</hi> we did cut out our paſſage by dint of Sword, and march over
+<pb n="14" facs="tcp:112935:9"/>
+their bellyes. Neere <hi>Yorke</hi> wee totally routed their numerous <hi>Miſcellanie,</hi> and layd thouſands upon the ground: Therefore I know not what his <hi>Triumvirate</hi> of Bladders can more genuinely imply, then thoſe three Puffes of Nobilitie which were prick'd at <hi>New<g ref="char:EOLhyphen"/>bury.</hi>
+            </p>
+            <p>As for our Fancies, they are firme and ſound; but Hee, and his partie, are impoſtumated Members of this Common-wealth, and incurable (I feare) without inciſion, or abſciſſion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
